@@ -9,8 +9,6 @@ Welcome to the JFLAPProgramCollection! This repository contains a curated collec
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
